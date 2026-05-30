@@ -1,4 +1,4 @@
-LAB 3 — Login and Register Form with Custom Input Component (React)
+Login and Register Form with Custom Input Component (React)
 
 1. Created a React project with separate Login and Register page components.
 2. Built a reusable custom Input component to avoid repeating input field code.
